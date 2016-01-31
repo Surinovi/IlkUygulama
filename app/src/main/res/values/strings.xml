@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IlkUygulama</string>
+    <string name="tv_title">Yemeksepeti</string>
+    <string name="tv1_txt">Urun secin:</string>
+    <string name="tv2_txt">Adet secin(3):</string>
+    <string-array name="yemeksepeti">
+        <item>Hamburger: 5.50 TL </item>
+        <item>Patates: 4.75 TL</item>
+        <item>Icecek: 2.00 TL</item>
+    </string-array>
+    <string name="rdb1_txt">Nakit</string>
+    <string name="rdb2_txt">POS</string>
+    <string name="check_txt">Fatura</string>
+    <string name="btn1_txt">Ekle</string>
+    <string name="btn2_txt">Temizle</string>
+    <string name="btn3_txt">Bitir</string>
+</resources>
